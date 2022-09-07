@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Button button3;
     int x = 5;
     String st = "Your number: ";
-    String st2 = "Your number: 5 ";
+    private final String st2 = "Your number: 5 ";
 
 
 
